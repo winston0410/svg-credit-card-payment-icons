@@ -1,0 +1,9 @@
+{
+	"name": "svg-credit-card-payment-icons",
+	"version": "0.0.0",
+	"license": "MIT",
+	"engines": {
+		"node": "18",
+		"npm": "9.5.1"
+	}
+}
